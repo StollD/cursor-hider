@@ -1,2 +1,2 @@
 # cursor-hider
-Hides the cursor while screenshotting (Kerbal Space Program)
+Hides the cursor while the UI is hidden (Kerbal Space Program)
